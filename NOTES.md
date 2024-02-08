@@ -21,3 +21,6 @@ ceil(price of System B) < price of System A.
 - ✅ DONE
 
 ## Plans
+- ⚠ TODO create more examples
+- ⚠ TODO create new user story + UATs
+- 
